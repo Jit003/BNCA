@@ -24,3 +24,7 @@ function nameValidate(id) {
         }
     }
 }
+
+function validateEmail(){
+    
+}
